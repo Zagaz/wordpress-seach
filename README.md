@@ -1,5 +1,5 @@
 ### Wordpres-search
-This is a hint for all who needs to place a nice looking search form on your Wordpress Theme.
+This is aquick tutorial for all who needs to place a nice looking search form on your Wordpress Theme.
 
 It will have a lens icon (Fontawesome) and Bootstrap styling.
 
